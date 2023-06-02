@@ -1,0 +1,34 @@
+.navBar{
+    border:solid blue;
+    height: 15vh;
+    display: flex;
+}
+.icon{
+    height: 100px;
+}
+.menu{
+    border:solid red;
+    height: 15vh;
+}
+.Drinks{
+    border:solid pink;
+    height: 15vh;
+}
+.Food{
+    border:solid green;
+    height: 15vh;
+}
+.HomeCoffee{
+    border:solid purple;
+    height: 15vh;
+}
+.Merchandise{
+    border:solid yellow;
+    height: 15vh;
+}
+.GiftCards{
+    border:solid yellowgreen;
+    height: 15vh;
+}
+
+
